@@ -43,19 +43,6 @@ The main goals of this project are:
 | 🐙 **GitHub** | Project hosting & version control |
 
 ---
-
-## 📂 Repository Structure
-
-```text
-Netflix-Content-Analytics/
-│
-├── 📄 netflix_cleaned.csv
-├── 📊 Netflix_Content_Analytics_Dashboard.pbix
-├── 🖼️ Netflix_Dashboard.png
-└── 📖 README.md
-
----
-
 # 👩‍💻 Author
 
 ## Aliza Ali
@@ -73,3 +60,18 @@ This project was created by **Aliza Ali** as a practical data analytics project 
 <p align="center">
   Made with 📊 Power BI & 💻 Data Analytics
 </p>
+
+---
+
+
+## 📂 Repository Structure
+
+```text
+Netflix-Content-Analytics/
+│
+├── 📄 netflix_cleaned.csv
+├── 📊 Netflix_Content_Analytics_Dashboard.pbix
+├── 🖼️ Netflix_Dashboard.png
+└── 📖 README.md
+
+---
